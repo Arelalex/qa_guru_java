@@ -43,10 +43,5 @@ public class Main {
         System.out.println("aInt + aFloat = " + aInt + aFloat); //ответ приводится к следующему типу float
         System.out.println("bInt * aDouble = " + bInt * aDouble); //ответ приводится к следующему типу double
         System.out.println("aChar / aByte = " + aChar / aByte); //берется числовой код символа с = 99
-
-
-
-
-
     }
 }
